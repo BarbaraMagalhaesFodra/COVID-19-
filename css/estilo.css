@@ -1,0 +1,84 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #000000;
+	margin:0px 0px;
+}
+#cabecalho{
+	text-align: center;
+	background-color: #9e4a31;
+	
+}
+#cabecalho img{	
+	margin:50px 0px;
+}
+h1{
+	font-size: 100px;
+	padding-top: 20px;
+	color: #ffffff;
+	font-family:  Pacifico;
+}
+h2{
+	text-align: center;
+	color:#000000;
+	font-family: Petit Formal Script;
+}
+p{
+	font-family: Petit Formal Script;
+	color:#000000;
+	font-size: 17px;
+	text-align: justify;
+	margin-top: 10px;
+}
+#cabecalho a:link, #cabecalho a:visited{
+	font-family: Arial;
+	text-align: center;
+	text-decoration: unset;
+	color: white;
+	padding: 1px 15px;
+}
+#cabecalho a:hover{
+	background-color: #b53333;
+	text-decoration: unset;
+	border-radius: 20px;
+}
+#area_postagens{
+	text-align: center;
+	margin: 10px;
+}
+#contato{
+	background-color:  #b3b3b3;
+	text-align: center;
+	margin: 30px 80px 30px 80px;
+	padding: 35px;
+}
+#imagem_contato img{
+	width: 70px;
+	height: 45px;
+	padding: 15px;
+}
+.blog{
+	width: 480px;
+	height: 400px;
+	margin: 10px 50px;
+	margin-bottom: 80px;
+	float: left;
+	padding: 10px;
+	text-align: justify;
+	background-color: #b3b3b3;
+	border-radius: 7px;
+
+}
+.blog img{
+	width: 250px;
+	height: 200px;
+}
+#rodape{
+	background-color: #B53333;
+	clear: both;
+	text-align: center;
+	padding: 15px;
+
+}
